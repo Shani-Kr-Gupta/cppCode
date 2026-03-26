@@ -1,0 +1,21 @@
+🟦 3️⃣ Classes & Objects — Practical Questions
+
+Create a class Student with data members and display details.
+
+Write a program to create multiple objects of one class.
+
+Program using member function defined outside the class.
+
+Program with private, public, and protected access specifiers.
+
+Create a class to calculate area of circle using object.
+
+Program to compare two objects of a class.
+
+Program where one object initializes another object.
+
+Program with array of objects.
+
+Program using object as function argument.
+
+Program to return object from function.
