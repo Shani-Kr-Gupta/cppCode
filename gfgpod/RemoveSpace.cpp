@@ -21,7 +21,8 @@ int main(){
     string a;
     getline(cin,a);
     Solution s;
-    s.modify(a);
+    string ans=s.modify(a);
+    cout<<ans;
     return 0;
 }
 
